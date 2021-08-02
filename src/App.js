@@ -16,7 +16,7 @@ function App() {
         </Route>
 
         <Route>
-          T<div>Not found</div>
+          <div>Not found</div>
         </Route>
       </Switch>
     </div>
