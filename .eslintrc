@@ -16,6 +16,6 @@
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "arrow-body-style": [0],
-    "no-unused-vars": "warn"
+    "no-unused-vars": "off"
   }
 }
